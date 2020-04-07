@@ -1,0 +1,1034 @@
+fileFormatVersion: 2
+guid: 86343aa024a964848b85ba5197922e79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8044297435820043536
+    second: Backfllip_0
+  - first:
+      213: 7109766299143740389
+    second: Backfllip_1
+  - first:
+      213: 9172471436745449736
+    second: Backfllip_2
+  - first:
+      213: 6282577268694775366
+    second: Backfllip_3
+  - first:
+      213: -5834832555324019166
+    second: Backfllip_4
+  - first:
+      213: -2858434342481757553
+    second: Backfllip_5
+  - first:
+      213: -7315457567079694409
+    second: Backfllip_6
+  - first:
+      213: 622532931435315310
+    second: Backfllip_7
+  - first:
+      213: 7201868135909184444
+    second: Backfllip_8
+  - first:
+      213: -4653583241608478778
+    second: Backfllip_9
+  - first:
+      213: -4191682046452025983
+    second: Backfllip_10
+  - first:
+      213: 7198815800498094583
+    second: Backfllip_11
+  - first:
+      213: 7371832274006392105
+    second: Backfllip_12
+  - first:
+      213: -2509246701529801849
+    second: Backfllip_13
+  - first:
+      213: 5328942004474188922
+    second: Backfllip_14
+  - first:
+      213: -9212023897000758644
+    second: Backfllip_15
+  - first:
+      213: -6104883166283173817
+    second: Backfllip_16
+  - first:
+      213: 7246880162375287711
+    second: Backfllip_17
+  - first:
+      213: 7861726153526858189
+    second: Backfllip_18
+  - first:
+      213: -1263696948562080174
+    second: Backfllip_19
+  - first:
+      213: -1245486145582767326
+    second: Backfllip_20
+  - first:
+      213: -6001219922208012478
+    second: Backfllip_21
+  - first:
+      213: 3342040755799615014
+    second: Backfllip_22
+  - first:
+      213: 2702597593740366609
+    second: Backfllip_23
+  - first:
+      213: -5980732021940621936
+    second: Backfllip_24
+  - first:
+      213: -4501792479669090025
+    second: Backfllip_25
+  - first:
+      213: -3335190208355717306
+    second: Backfllip_26
+  - first:
+      213: -612161463552194022
+    second: Backfllip_27
+  - first:
+      213: 3390560476710959776
+    second: Backfllip_28
+  - first:
+      213: -6024956543073355446
+    second: Backfllip_29
+  - first:
+      213: -8982016874351744469
+    second: Backfllip_30
+  - first:
+      213: 3113532024605190691
+    second: Backfllip_31
+  - first:
+      213: 2609338171302901873
+    second: Backfllip_32
+  - first:
+      213: -1968216999626909088
+    second: Backfllip_33
+  - first:
+      213: -6239376521028099035
+    second: Backfllip_34
+  - first:
+      213: 7135396008515303257
+    second: Backfllip_35
+  - first:
+      213: 4646814675469087701
+    second: Backfllip_36
+  - first:
+      213: 5092093277664668796
+    second: Backfllip_37
+  - first:
+      213: 970739956970945616
+    second: Backfllip_38
+  - first:
+      213: 8112157887328895242
+    second: Backfllip_0
+  - first:
+      213: 1027229077414918664
+    second: Backfllip_1
+  - first:
+      213: -8049990663549527499
+    second: Backfllip_2
+  - first:
+      213: -2367928525736266804
+    second: Backfllip_3
+  - first:
+      213: 8880632173443463675
+    second: Backfllip_4
+  - first:
+      213: 4183713353342504877
+    second: Backfllip_5
+  - first:
+      213: 4657010221386005774
+    second: Backfllip_6
+  - first:
+      213: 4060410660710080305
+    second: Backfllip_7
+  - first:
+      213: -405813196258947097
+    second: Backfllip_8
+  - first:
+      213: 151435074943965918
+    second: Backfllip_9
+  - first:
+      213: -6436688359745181837
+    second: Backfllip_10
+  - first:
+      213: -4153859229365409794
+    second: Backfllip_11
+  - first:
+      213: 4844600013032806788
+    second: Backfllip_12
+  - first:
+      213: 3722005395367292340
+    second: Backfllip_13
+  - first:
+      213: 1501327937401540842
+    second: Backfllip_14
+  - first:
+      213: 4551428785652717306
+    second: Backfllip_15
+  - first:
+      213: 6255364602954783476
+    second: Backfllip_16
+  - first:
+      213: 4332737485379600235
+    second: Backfllip_17
+  - first:
+      213: -7327889781384459390
+    second: Backfllip_18
+  - first:
+      213: -5130786323759792975
+    second: Backfllip_19
+  - first:
+      213: -8335435402222647032
+    second: Backfllip_20
+  - first:
+      213: -2127369485072531597
+    second: Backfllip_21
+  - first:
+      213: 5398596128133845928
+    second: Backfllip_22
+  - first:
+      213: -7951573568075074328
+    second: Backfllip_23
+  - first:
+      213: -1287765713219020321
+    second: Backfllip_24
+  - first:
+      213: -265365987989639954
+    second: Backfllip_25
+  - first:
+      213: 742210880619482452
+    second: Backfllip_26
+  - first:
+      213: -4725555326642618667
+    second: Backfllip_27
+  - first:
+      213: 6961764327326824243
+    second: Backfllip_28
+  - first:
+      213: 8203942565133381867
+    second: Backfllip_29
+  - first:
+      213: -6118067462326515414
+    second: Backfllip_30
+  - first:
+      213: -2910815022683679369
+    second: Backfllip_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Backfllip_32
+      rect:
+        serializedVersion: 2
+        x: 5409
+        y: 15
+        width: 70
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178706fed3b363420800000000000000
+      internalID: 2609338171302901873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_0
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 147
+        width: 196
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014f145e9c249070800000000000000
+      internalID: 8112157887328895242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_1
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 225
+        width: 205
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab4464763714e00800000000000000
+      internalID: 1027229077414918664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_2
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 281
+        width: 174
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a5be56420b84090800000000000000
+      internalID: -8049990663549527499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_3
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 274
+        width: 169
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b9f93d8d632fd0800000000000000
+      internalID: -2367928525736266804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_4
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 274
+        width: 145
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b00ff8e75e3b70800000000000000
+      internalID: 8880632173443463675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_5
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 271
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc90ce0298f0a30800000000000000
+      internalID: 4183713353342504877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_6
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 266
+        width: 100
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d73195f1601a040800000000000000
+      internalID: 4657010221386005774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_7
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 100
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f55d1abf9795830800000000000000
+      internalID: 4060410660710080305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_8
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 239
+        width: 100
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc1df4c034e5af0800000000000000
+      internalID: -405813196258947097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_9
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 234
+        width: 97
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad198f5610a1200800000000000000
+      internalID: 151435074943965918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_10
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 234
+        width: 124
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772f733a0a4ca6a0800000000000000
+      internalID: -6436688359745181837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_11
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 236
+        width: 148
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef762baf9078a56c0800000000000000
+      internalID: -4153859229365409794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_12
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 239
+        width: 157
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895ca74b0a7b3340800000000000000
+      internalID: 4844600013032806788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_13
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 220
+        width: 161
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd64f2ef2837a330800000000000000
+      internalID: 3722005395367292340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_14
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 180
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae050300ec9c5d410800000000000000
+      internalID: 1501327937401540842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_15
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 139
+        width: 173
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af65155bd5ce92f30800000000000000
+      internalID: 4551428785652717306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_16
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 96
+        width: 170
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa1cabc6f48fc650800000000000000
+      internalID: 6255364602954783476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ff11189c9f02c30800000000000000
+      internalID: 4332737485379600235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 73
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b4d53911b1e4a90800000000000000
+      internalID: -7327889781384459390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 113
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc7dd9c509cbc8b0800000000000000
+      internalID: -5130786323759792975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 15
+        width: 172
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809cd4a2aa5925c80800000000000000
+      internalID: -8335435402222647032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_21
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 53
+        width: 159
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ffe3089b01a72e0800000000000000
+      internalID: -2127369485072531597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_22
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 7
+        width: 148
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39737539aabea40800000000000000
+      internalID: 5398596128133845928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_23
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 10
+        width: 142
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ff7518f556a190800000000000000
+      internalID: -7951573568075074328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_24
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 12
+        width: 111
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd917ad18efe02ee0800000000000000
+      internalID: -1287765713219020321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_25
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 12
+        width: 83
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec28663a0b315cf0800000000000000
+      internalID: -265365987989639954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_26
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 12
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d01cf0ddcdc4a00800000000000000
+      internalID: 742210880619482452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_27
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 12
+        width: 86
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def20da7747b6eb0800000000000000
+      internalID: -4725555326642618667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_28
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 15
+        width: 86
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373d4c45c72d9060800000000000000
+      internalID: 6961764327326824243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_29
+      rect:
+        serializedVersion: 2
+        x: 5061
+        y: 18
+        width: 81
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07b70fb424ad170800000000000000
+      internalID: 8203942565133381867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_30
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 18
+        width: 75
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290724de02481ba0800000000000000
+      internalID: -6118067462326515414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backfllip_31
+      rect:
+        serializedVersion: 2
+        x: 5296
+        y: 18
+        width: 72
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7759116b825ba97d0800000000000000
+      internalID: -2910815022683679369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
